@@ -1,5 +1,7 @@
 # batch-fetch
 
+[JSR](https://jsr.io/@mary/batch-fetch) | [source code](https://tangled.sh/@mary.my.id/pkg-batch-fetch)
+
 utility for batching individual queries into one single request.
 
 ```ts
